@@ -77,6 +77,19 @@ App {
         scrim: "#000000"
     }
 // deployment start - don't edit here
-
+Deployment {
+File { path: "dao.png" time: "2025.03.19 21.59.42" type: "image" }
+  File { path: "cover-en.png" time: "2025.03.22 12.10.49" type: "image" }
+  File { path: "magic_book.png" time: "2025.03.21 23.15.03" type: "image" }
+  File { path: "begood.png" time: "2025.03.22 15.31.34" type: "image" }
+  File { path: "kids.png" time: "2025.03.22 00.10.02" type: "image" }
+  File { path: "circle.png" time: "2025.03.22 00.19.23" type: "image" }
+  File { path: "dome.png" time: "2025.03.22 00.02.17" type: "image" }
+  File { path: "garden.png" time: "2025.03.22 00.15.02" type: "image" }
+  File { path: "guttun.png" time: "2025.03.22 15.28.52" type: "image" }
+  File { path: "kitchen.png" time: "2025.03.22 00.03.21" type: "image" }
+  File { path: "cover-de.png" time: "2025.03.21 23.50.44" type: "image" }
+  File { path: "rainbow.png" time: "2025.04.18 07.47.05" type: "image" }
+}
 // deployment end
 }
